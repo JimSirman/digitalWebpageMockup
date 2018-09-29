@@ -6,6 +6,7 @@
     <h2><%: Title %>.</h2>
 
     <div>
+        <!--test-->
         <asp:PlaceHolder runat="server" ID="successMessage" Visible="false" ViewStateMode="Disabled">
             <p class="text-success"><%: SuccessMessage %></p>
         </asp:PlaceHolder>
